@@ -1,0 +1,3 @@
+[submodule "LibDamian"]
+	path = LibDamian
+	url = https://github.com/damiannogueiras/MiLibreria.git
